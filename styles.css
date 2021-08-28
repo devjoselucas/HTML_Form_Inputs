@@ -1,7 +1,5 @@
-body{
-    font-family: sans-serif;
-}
-
-label{
-    cursor: pointer;
+.caixa {
+    background-color: red;
+    width: 120px;
+    height: 120px;;
 }
