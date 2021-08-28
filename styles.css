@@ -14,3 +14,7 @@ a:visited {
     color: white;
     text-decoration: none;
 }
+
+p::first-letter{
+    font-size: 20px;
+}
